@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728608972128",
+    "project_id": "uhelper-992f1",
+    "storage_bucket": "uhelper-992f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728608972128:android:58cfb518a3d53874bb9205",
+        "android_client_info": {
+          "package_name": "cr.ac.ucr.ecci.eseg.uhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728608972128-42lohqeti1bv427pm5l6t4rfoc45r7p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsUC0rmyNTPLamqksO17LxB_2tvDsTC-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728608972128-42lohqeti1bv427pm5l6t4rfoc45r7p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
